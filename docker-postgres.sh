@@ -4,7 +4,7 @@
 set -e
 
 # Variables
-POSTGRES_IMAGE="postgres:15"
+POSTGRES_IMAGE="postgres:14"
 CONTAINER_NAME="my_postgres"
 POSTGRES_USER="myuser"
 POSTGRES_PASSWORD="mypassword"
